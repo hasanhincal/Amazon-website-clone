@@ -10,11 +10,4 @@ Codded in HTML5 ve CSS3
 
 ![](screen.gif)
 
-<h2>Screen picture</h2>
-
-![](Ekran%20görüntüsü1.png)
-
-![](Ekran%20görüntüsü2.png)
-
-![](Ekran%20görüntüsü3.png)
 
